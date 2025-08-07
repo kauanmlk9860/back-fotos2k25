@@ -1,0 +1,22 @@
+{
+  "fotos": [
+    {   
+        "id": "1",
+        "imagem": "https://lh3.googleusercontent.com/pw/AP1GczP8-EXOG5f3PkOl5vcWWIPuYSTqYiPzjSL-MLfWTAxyQqR0Bdav5M1QrwacqnWtQIbTUZTsL9kQc_n3B0xP8FjVPRq2o1tG9xWuSPfNB7zIzruzsMldJPTx_nkluvslYJa7kPmIRWCRJbY8I4xXC6zwJA=w2300-h2300-s-no?authuser=0", 
+        "legenda": "Mesa de Ping Pong", 
+        "data": "07.08.2025"
+    },
+    { 
+        "id": "2",
+        "imagem": "https://lh3.googleusercontent.com/pw/AP1GczMW9Trx3yap8IdeSpGT7MHo4uDf3fdbekLbQoEI5rFzBuWo3ZFjkefj7sFDFv7tBNZQ3nolRYNk7mE7LA-WNZhxilbwS7UBBS27-P9nHn33jD0uo0N_OSESgbeBKHJuPt6t38onHG5hg31hMOND6xmz0Q=w2300-h2300-s-no?authuser=0", 
+        "legenda": "Sala da Biblioteca/descanso", 
+        "data": "07.08.2025"
+},
+    { 
+        "id": "3",
+        "imagem": "https://lh3.googleusercontent.com/pw/AP1GczMbEuoqZwRx3PGsRn4v2jcTwk1CylE-Ui4MmOkQYdsljRX3DazBbNxTxCxu4Q2tyE5PPsyxAPny7UBetb0wjfKBE4MzKrpM7wsAOE8figwuOplS8miNQiOBEuBQKO8g6BP8NUsLQ42XENV1AHTPKijKUQ=w2300-h2300-s-no?authuser=0", 
+        "legenda": "Sala de IOT Senai", 
+        "data": "07.08.2025"
+    }
+  ]
+}
